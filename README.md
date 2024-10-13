@@ -1,7 +1,7 @@
 # Youtube video and audio downloader
 A simple youtube downloader program with gui that i made. You can choose between the different resolutions that are available and if you want to download audio only that is also possible!
 
-# Be sure to install ffmpeg if the program doesnt work and add it to your system path in order for the program to work since i use it
+# Be sure to install ffmpeg if the program doesnt work and add it to your system path in order for the program to work
 (because youtube stores audio files and video files seperatly for video resolutions that are above 720p, ffmpeg is used to combine those two files after the download so that you get a single video file with the audio and the video).
 
 # To do this for windows do the following:
